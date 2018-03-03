@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  color: blue;
+}
+#inst {
+   color:black;
+   font-size: 15px;
+   width: 30%;
+   margin: 0 auto;
+}
+#instructions p {
+    margin: 0;
+    color: gray;
+}
